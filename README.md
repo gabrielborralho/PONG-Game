@@ -16,20 +16,27 @@ To record the microcontroller, the USB-ASP recorder with the ProgISP software wa
 
 The following components were used:
 
-1 Kit ATMega328P
-1 Gravador ATMEL AVR USBasp
-1 Protoboard Padrão
-1 Fonte Ajustável para Protoboard
-1 Pack de Jumpers
-1 Módulo Buzzer
-1 Regulador de tensão L7805
-1 DIP Switch 4 vias
-1 Bateria 9V
-14 Resistor 330Ω 5% (1/4W)
-10 LED de alto brilho 3mm
-2 Chave Táctil 4 Terminais
+Gabriel Borralho Board ATMega328P;
 
-#Results
+ATMEL Recorder AVR USBasp;
+
+Protoboard;
+
+Adjustable Source for Protoboard;
+
+Pack of Jumpers;
+
+Buzzer module;
+
+DIP Switch 4 way;
+
+9V battery;
+
+Pong board
+
+Touch Key 4 Terminals;
+
+# Results
 
 ## Assembly
 <img src="https://i.imgur.com/kX73OUW.jpg"/>
@@ -42,4 +49,7 @@ The following components were used:
 
 ## Pong Module
 <img src="https://i.imgur.com/zLSvgSp.jpg"/>
+
+## DIP Switch
+<img src="https://i.imgur.com/uJzj7sJ.jpg"/>
 
